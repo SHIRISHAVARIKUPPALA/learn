@@ -133,4 +133,4 @@ the Overleaf menu — or use the contact form at \href{https://www.overleaf.com/
   year =         "1905",
   DOI =          "http://dx.doi.org/10.1002/andp.19053221004",
   keywords =     "physics"
-}  \\reference bib file
+}  %reference bib file
